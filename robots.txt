@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GzyAftermath.github.io/al-folio/sitemap.xml
+Sitemap: https://GzyAftermath.github.io/sitemap.xml
