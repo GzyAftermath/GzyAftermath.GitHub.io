@@ -6,7 +6,7 @@ subtitle: 郭子尧
 
 profile:
   align: right
-  image: gzy.jpg
+  image: gzy.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>GzyAftermath@outlook.com</p>
