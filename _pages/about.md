@@ -18,6 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi there!
 
-Currently, I am a M.S. student at Xidian University. My research interest mainly lies in Efficient AI and generative models.
-
-I am seeking Ph.D. opportunities for Spring 2025 enrollment. If you are interested in my background and research, please feel free to drop me an Email.
+I am an incoming Ph.D. student at NUS, I got my master's degree from Xidian University in 2024 and my bachelor's degree from Yunnan University in 2021. My research interest mainly lies in Efficient AI and generative models.
